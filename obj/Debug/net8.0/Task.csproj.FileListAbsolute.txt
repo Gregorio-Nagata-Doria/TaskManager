@@ -16,3 +16,4 @@ C:\Users\Micro\Desktop\Task\bin\Debug\net8.0\tasks.json
 C:\Users\Micro\Desktop\Task\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Micro\Desktop\Task\obj\Debug\net8.0\Task.csproj.AssemblyReference.cache
 C:\Users\Micro\Desktop\Task\obj\Debug\net8.0\Task.csproj.Up2Date
+C:\Users\Micro\Desktop\Task\obj\Debug\net8.0\Task.sourcelink.json
