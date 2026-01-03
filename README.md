@@ -21,6 +21,5 @@
       </ul>
        <ul>
         list done,list todo, list in-progress: lista as tarefas com o status escolhido
-      </ul>
-      
+      </ul>      
     </li>
